@@ -13,10 +13,10 @@
 
 <!-- PROFILE VIEWS + SOCIAL BADGES -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=612302049&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Kshitij0610&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views"/>
   &nbsp;
-  <a href="https://github.com/612302049?tab=followers">
-    <img src="https://img.shields.io/github/followers/612302049?label=Followers&style=flat&color=58a6ff&logo=github" alt="followers"/>
+  <a href="https://github.com/Kshitij0610?tab=followers">
+    <img src="https://img.shields.io/github/followers/Kshitij0610?label=Followers&style=flat&color=58a6ff&logo=github" alt="followers"/>
   </a>
 </p>
 
@@ -131,20 +131,19 @@ Frame Design (SolidWorks)           |  Power Budget Analysis
 | VTOL Design | Tilt-rotor transition dynamics | 📖 Studying |
 
 ---
-<!--
 ## GitHub Stats
 
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kshitij0610&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=612302049&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kshitij0610&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=612302049&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6e6e&currStreakLabel=58a6ff"/>
+<img src="https://streak-stats.demolab.com?user=Kshitij0610&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6e6e&currStreakLabel=58a6ff"/>
 
 </div>
 
