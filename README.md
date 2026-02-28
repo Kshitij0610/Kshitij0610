@@ -131,7 +131,7 @@ Frame Design (SolidWorks)           |  Power Budget Analysis
 | VTOL Design | Tilt-rotor transition dynamics | 📖 Studying |
 
 ---
-
+<!--
 ## GitHub Stats
 
 <div align="center">
@@ -149,6 +149,7 @@ Frame Design (SolidWorks)           |  Power Budget Analysis
 </div>
 
 ---
+-->
 
 ## Engineering Philosophy
 
